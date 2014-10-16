@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abu:home|Door43 (abu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abu|d43-abu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abu/archive/master.zip|d43-abu.zip]]
+
+**Recent Changes**
+{{changes>ns = abu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abu|Ethnologue data]]
+
